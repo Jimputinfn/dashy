@@ -45,3 +45,7 @@ sections:
     url: https://github.com/Lissy93/dashy/blob/master/.github/SUPPORT.md
     icon: far fa-hands-helping
   
+- type: rss-feed
+  options:
+    rssUrl: https://christitus.com/categories/linux/index.xml
+    
