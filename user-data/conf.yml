@@ -1,8 +1,8 @@
 ---
 # Page meta info, like heading, footer text and nav links
 pageInfo:
-  title: Dashy
-  description: Welcome to your new dashboard!
+  title: Home Server
+  description: Cheese
   navLinks:
   - title: GitHub
     path: https://github.com/Lissy93/dashy
@@ -15,13 +15,13 @@ appConfig:
 
 # Main content - An array of sections, each containing an array of items
 sections:
-- name: Getting Started
+- name: Media
   icon: fas fa-rocket
   items:
-  - title: Dashy Live
-    description: Development a project management links for Dashy
+  - title: Plex Media Server
+    description: Movies and shows
     icon: https://i.ibb.co/qWWpD0v/astro-dab-128.png
-    url: https://live.dashy.to/
+    url: http://192.168.100.4:32400
     target: newtab
   - title: GitHub
     description: Source Code, Issues and Pull Requests
